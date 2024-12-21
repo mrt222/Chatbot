@@ -34,30 +34,7 @@ JSON dosyalarında saklanan verilerle hızlı ve kolay veri yönetimi.
 
 Flask framework ile geliştirilen basit ve kullanışlı bir web arayüzü.
 
-🖍 Test ve Değerlendirme
 
-Test Teknikleri: Manuel kullanıcı testleri
-
-Başarı Ölçütleri:
-
-Doğru yanıt oranı (%)
-
-Kullanıcı memnuniyeti puanı
-
-📂 Kurulum ve Kullanım
-
-Projeyi klonlayın:
-
-git clone https://github.com/kullanıcı-adı/ogrenci-isleri-chatbot.git
-cd ogrenci-isleri-chatbot
-
-Gerekli Python kütüphanelerini yükleyin:
-
-pip install -r requirements.txt
-
-Chatbot'u çalıştırın:
-
-python app.py
 
 
 
