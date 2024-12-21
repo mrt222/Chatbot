@@ -1,3 +1,6 @@
+![chat_bot](https://github.com/user-attachments/assets/ec5652f4-3d25-4e37-a39f-63093865aafc)
+
+
 Öğrenci İşleri Chatbot Projesi
 
 Bu proje, Öğrenci İşleri Daire Başkanlığı için kural tabanlı bir chatbot geliştirilmesini hedeflemektedir. Chatbot, öğrencilerin sıkça sorulan sorularına hızlı ve doğru yanıtlar verebilmeleri için tasarlanmıştır.
